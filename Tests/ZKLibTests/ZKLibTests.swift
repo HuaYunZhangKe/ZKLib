@@ -6,7 +6,7 @@ final class ZKLibTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(ZKLib().text, "Hello, World!")
+        XCTAssertEqual(ZKLibModel().text, "Hello, World!")
     }
 
     static var allTests = [
